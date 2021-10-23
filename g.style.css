@@ -5,7 +5,7 @@ body{
 }
 .image {
     background-image: url(jpg/hero.png);
-    width: 1921px;
+    width: 1920px;
     height: 921px;
     background-repeat: no-repeat;
     margin: 0;
@@ -112,7 +112,4 @@ p{
     background-color: #3377ff;
     transition: 1s;
     border: none;
-}
-i{
-    margin: 0px 0px 0px 0px;
 }
