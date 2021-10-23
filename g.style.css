@@ -36,6 +36,12 @@ body{
    font-weight: 600;   
    text-decoration: none;
 }
+.header-menu ul li a:hover{
+    color: rgb(73, 126, 223);
+}
+i:hover{
+    color: rgb(73, 126, 223);
+}
 .button{
     font-size: 20px;
     text-decoration: none;
