@@ -355,7 +355,7 @@ h3{
     border-radius: 5px;
     margin-top: 28px;
 }
-.fa{
+h5 > .fa{
     color: #fff;
     background-color: #3377ff;
     padding: 3px;
